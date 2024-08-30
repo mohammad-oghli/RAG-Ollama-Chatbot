@@ -1,0 +1,25 @@
+Job_Title,Industry,Company_Size,Location,AI_Adoption_Level,Automation_Risk,Required_Skills,Salary_USD,Remote_Friendly,Job_Growth_Projection
+Cybersecurity Analyst,Entertainment,Small,Dubai,Medium,High,UX/UI Design,111392.16524316,Yes,Growth
+Marketing Specialist,Technology,Large,Singapore,Medium,High,Marketing,93792.5624661091,No,Decline
+AI Researcher,Technology,Large,Singapore,Medium,High,UX/UI Design,107170.26306895,Yes,Growth
+Sales Manager,Retail,Small,Berlin,Low,High,Project Management,93027.9537578642,No,Growth
+Cybersecurity Analyst,Entertainment,Small,Tokyo,Low,Low,JavaScript,87752.9221705924,Yes,Decline
+UX Designer,Education,Large,San Francisco,Medium,Medium,Cybersecurity,102825.007866568,No,Growth
+HR Manager,Finance,Medium,Singapore,Low,High,Sales,102065.720673476,Yes,Growth
+Cybersecurity Analyst,Technology,Small,Dubai,Medium,Low,Machine Learning,86607.3176180969,Yes,Decline
+AI Researcher,Retail,Large,London,High,Low,JavaScript,75015.8608457148,No,Stable
+Sales Manager,Entertainment,Medium,Singapore,High,Low,Cybersecurity,96834.5782948087,Yes,Decline
+Marketing Specialist,Finance,Small,London,High,High,Python,91566.9733792519,Yes,Growth
+AI Researcher,Entertainment,Medium,Singapore,Medium,High,UX/UI Design,78902.5657445849,No,Growth
+AI Researcher,Transportation,Large,San Francisco,High,Medium,Python,73151.9903492641,Yes,Growth
+HR Manager,Retail,Small,Paris,Low,High,Cybersecurity,98209.5168778891,Yes,Decline
+Product Manager,Finance,Medium,Singapore,High,High,JavaScript,101001.901140554,Yes,Growth
+Sales Manager,Telecommunications,Small,Dubai,High,Low,UX/UI Design,82799.3577069028,No,Growth
+Software Engineer,Manufacturing,Medium,Singapore,High,Medium,Machine Learning,78401.2592817415,No,Decline
+AI Researcher,Manufacturing,Large,Tokyo,Low,High,Project Management,73394.8962192562,No,Stable
+Product Manager,Finance,Large,San Francisco,Medium,High,UX/UI Design,97645.0987828984,Yes,Stable
+Software Engineer,Entertainment,Small,Dubai,Low,Low,UX/UI Design,73920.4585271853,Yes,Growth
+Sales Manager,Retail,Medium,Sydney,Medium,Low,JavaScript,134822.691380415,Yes,Decline
+Data Scientist,Manufacturing,Small,Dubai,Medium,High,JavaScript,81794.3712805801,Yes,Growth
+UX Designer,Retail,Small,Tokyo,High,Medium,Cybersecurity,41495.714442548,No,Decline
+Product Manager,Manufacturing,Medium,Paris,Medium,Medium,Data Analysis,89396.5666674173,Yes,Decline
